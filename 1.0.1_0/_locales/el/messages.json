@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Κοινοποίηση αυτής της ιστοσελίδας στο Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Κοινοποίηση κειμένου ως παράθεσης στο Facebook"
+   },
+   "extensionName": {
+      "message": "Κοινοποίηση στο Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Οι επιλογές αποθηκεύτηκαν"
+   },
+   "selectionOverlayMessage": {
+      "message": "Κοινοποίηση αυτής της παράθεσης στο Facebook"
+   }
+}

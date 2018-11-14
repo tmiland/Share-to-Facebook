@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "แชร์เว็บเพจนี้ไปยัง Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "แชร์ข้อความนี้เป็นข้อความอ้างอิงไปยัง Facebook"
+   },
+   "extensionName": {
+      "message": "แชร์ไปยัง Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "บันทึกตัวเลือกแล้ว"
+   },
+   "selectionOverlayMessage": {
+      "message": "แชร์ข้อความอ้างอิงนี้ไปยัง Facebook"
+   }
+}

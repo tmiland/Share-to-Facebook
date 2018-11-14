@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon/fb_flat_blue_50.png"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en_US",
+   "icons": {
+      "16": "icon/fb_flat_blue_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi/4AdAvESmR3PFRyhBTUTGgjPLESc7W71fbOq+WxmPWcTGnPnY8VqX6/hbOiVYjQz5C2F2QIO12rb7wMRoUjFbn3DmzaH8PBL3/xDiUxy50u4pD52rlNJY/55Wg9CBr17TjLPTUUyxpMcDbK4uBxHNATjgydpsOWfLUMUcS33GiIB3P/jmC7532pMwLRy5grprsIVz2yFgbvtja+KEaISVMpRIZp9803ZOC/cVP5j+QalggONK1j3UHBp2fMfExepKf4i7163oWXqDvS2jvrE9XPu6owVUCqUm9lOS6EmXE9wJSu40LMvKpfXrhF4Z87ZswUEqy7Xx0gdv1+PolkswIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "permissions": [ "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Comparteix aquesta pàgina web a Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Comparteix el text com una cita a Facebook"
+   },
+   "extensionName": {
+      "message": "Comparteix a Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opcions desades"
+   },
+   "selectionOverlayMessage": {
+      "message": "Comparteix aquesta cita a Facebook"
+   }
+}

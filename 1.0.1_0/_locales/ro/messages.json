@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Distribuie această pagină web pe Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Distribuie textul ca citat pe Facebook"
+   },
+   "extensionName": {
+      "message": "Distribuie pe Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opțiuni salvate"
+   },
+   "selectionOverlayMessage": {
+      "message": "Distribuie acest citat pe Facebook"
+   }
+}

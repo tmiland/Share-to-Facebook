@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Deze webpagina delen op Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Tekst als citaat delen op Facebook"
+   },
+   "extensionName": {
+      "message": "Delen op Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opties opgeslagen"
+   },
+   "selectionOverlayMessage": {
+      "message": "Dit citaat delen op Facebook"
+   }
+}

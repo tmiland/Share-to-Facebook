@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "Share to Facebook",
+    "description": "The name of the chrome extension."
+  },
+  "contextMenuSharePage": {
+    "message": "Share this webpage to Facebook",
+    "description": "This message is shown when the context menu is displayed and no text is selected."
+  },
+  "contextMenuShareQuote": {
+    "message": "Share text as quote to Facebook",
+    "description": "This message is shown when the context menu is displayed and text is selected."
+  },
+  "optionsPageTitle": {
+    "message": "Share to Facebook Options",
+    "description": ""
+  },
+  "optionsPageUpdateSaved": {
+    "message": "Options saved",
+    "description": "This message is shown when the user updates any of their custom options in the options page."
+  },
+  "selectionOverlayMessage": {
+    "message": "Share this quote to Facebook",
+    "description": "When text is selected on a webpage, an overlay will be shown. This text is displayed inside the overlay."
+  }
+}

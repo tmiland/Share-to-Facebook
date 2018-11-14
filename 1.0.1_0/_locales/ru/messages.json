@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Поделиться веб-страницей на Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Поделиться текстом в виде цитаты на Facebook"
+   },
+   "extensionName": {
+      "message": "Поделиться на Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Параметры сохранены"
+   },
+   "selectionOverlayMessage": {
+      "message": "Поделиться цитатой на Facebook"
+   }
+}

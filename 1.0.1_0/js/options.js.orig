@@ -1,0 +1,25 @@
+document.addEventListener('DOMContentLoaded', restore_options);
+document.getElementById('fbShowQuoteOverlayOption').addEventListener('click',
+    save_options);
+
+function restore_options() {
+  chrome.storage.sync.get({
+    shouldShowQuoteOverlayOption: true
+  }, function(items) {
+    var overlayOption = 
+    overlayOption.checked = items.shouldShowQuoteOverlayOption;
+  });
+}
+
+function save_options() {
+  var shouldShowQuoteOverlay = overlayOption.checked;
+  chrome.storage.sync.set({
+    shouldShowQuoteOverlayOption: shouldShowQuoteOverlay
+  }, function() {
+    var status = document.getElementById('status');
+    status.textContent = 'Options saved';
+    setTimeout(function() {
+      status.textContent = '';
+    }, 750);
+  });
+}

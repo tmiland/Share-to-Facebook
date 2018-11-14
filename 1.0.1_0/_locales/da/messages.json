@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Del denne webside på Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Del tekst som et citat på Facebook"
+   },
+   "extensionName": {
+      "message": "Del på Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Indstillingerne er gemt"
+   },
+   "selectionOverlayMessage": {
+      "message": "Del dette citat på Facebook"
+   }
+}

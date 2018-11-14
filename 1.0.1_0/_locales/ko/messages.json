@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "이 웹페이지를 Facebook에 공유"
+   },
+   "contextMenuShareQuote": {
+      "message": "텍스트를 인용문으로 Facebook에 공유"
+   },
+   "extensionName": {
+      "message": "Facebook에 공유"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "옵션이 저장되었습니다"
+   },
+   "selectionOverlayMessage": {
+      "message": "이 인용문을 Facebook에 공유"
+   }
+}

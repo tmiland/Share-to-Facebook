@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Compartilhar esta página no Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Compartilhar texto como citação no Facebook"
+   },
+   "extensionName": {
+      "message": "Compartilhar no Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opções salvas"
+   },
+   "selectionOverlayMessage": {
+      "message": "Compartilhar esta citação no Facebook"
+   }
+}

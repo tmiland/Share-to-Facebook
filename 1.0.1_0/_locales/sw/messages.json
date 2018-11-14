@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Shiriki ukurasa huu wa wavuti kwenye Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Shiriki matini kama nukuu kwenye Facebook"
+   },
+   "extensionName": {
+      "message": "Shiriki kwenye Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Chaguo zimehifadhiwa"
+   },
+   "selectionOverlayMessage": {
+      "message": "Shiriki nukuu hili kwenye Facebook"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "इस वेबपेज को Facebook से साझा करें"
+   },
+   "contextMenuShareQuote": {
+      "message": "पाठ को उद्धरण के रूप में Facebook से साझा करें"
+   },
+   "extensionName": {
+      "message": "Facebook से साझा करें"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "विकल्प सहेजे गए"
+   },
+   "selectionOverlayMessage": {
+      "message": "इस उद्धरण को Facebook से साझा करें"
+   }
+}

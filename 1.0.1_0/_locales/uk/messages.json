@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Поширити веб-сторінку у Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Поширити цитату у Facebook"
+   },
+   "extensionName": {
+      "message": "Поширення у Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Параметри збережено"
+   },
+   "selectionOverlayMessage": {
+      "message": "Зацитуйте цей текст у Facebook"
+   }
+}

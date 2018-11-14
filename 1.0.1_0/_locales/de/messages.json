@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Diese Webseite auf Facebook teilen"
+   },
+   "contextMenuShareQuote": {
+      "message": "Text als Zitat auf Facebook teilen"
+   },
+   "extensionName": {
+      "message": "Auf Facebook teilen"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Optionen gespeichert"
+   },
+   "selectionOverlayMessage": {
+      "message": "Dieses Zitat auf Facebook teilen"
+   }
+}

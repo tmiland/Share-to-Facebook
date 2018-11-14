@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Udostępnij tę witrynę na Facebooku"
+   },
+   "contextMenuShareQuote": {
+      "message": "Udostępnij tekst jako cytat na Facebooku"
+   },
+   "extensionName": {
+      "message": "Udostępnij na Facebooku"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opcje zapisane"
+   },
+   "selectionOverlayMessage": {
+      "message": "Udostępnij ten cytat na Facebooku"
+   }
+}

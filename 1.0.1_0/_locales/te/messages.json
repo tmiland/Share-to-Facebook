@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "ఈ వెబ్‌పేజీని Facebookకి భాగస్వామ్యం చేయండి"
+   },
+   "contextMenuShareQuote": {
+      "message": "వచనాన్ని సూక్తి రూపంలో Facebookకి భాగస్వామ్యం చేయండి"
+   },
+   "extensionName": {
+      "message": "Facebookకి భాగస్వామ్యం చేయండి"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "ఎంపికలు సేవ్ చేయబడ్డాయి"
+   },
+   "selectionOverlayMessage": {
+      "message": "ఈ సూక్తిని Facebookకి భాగస్వామ్యం చేయండి"
+   }
+}

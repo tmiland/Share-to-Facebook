@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Facebook -এ এই ওয়েব পৃষ্ঠাটি ভাগ করুন"
+   },
+   "contextMenuShareQuote": {
+      "message": "Facebook -এ কোট হিসেবে পাঠ্যটি ভাগ করুন"
+   },
+   "extensionName": {
+      "message": "Facebook এ ভাগ করুন"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "বিকল্প সংরক্ষিত হয়েছে"
+   },
+   "selectionOverlayMessage": {
+      "message": "Facebook -এ এই কোটটি ভাগ করুন"
+   }
+}

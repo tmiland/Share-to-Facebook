@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script type="text/javascript">
+    var pageTitle = chrome.i18n.getMessage("optionsPageTitle");
+    document.title = 'test';
+    </script>
+    <label>
+      <input type="checkbox" id="fbShowQuoteOverlayOption"> Show quote share overlay
+    </label>
+    <div id="status"></div>
+    <script src="../js/options.js"></script>
+  </body>
+</html>

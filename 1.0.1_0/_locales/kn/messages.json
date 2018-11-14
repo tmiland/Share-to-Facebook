@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Facebook ಗೆ ಈ ವೆಬ್‌ಪುಟವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+   },
+   "contextMenuShareQuote": {
+      "message": "Facebook ಗೆ ಈ ಪಠ್ಯವನ್ನು ಉಲ್ಲೇಖದಂತೆ ಹಂಚಿಕೊಳ್ಳಿ"
+   },
+   "extensionName": {
+      "message": "Facebook ಗೆ ಹಂಚಿಕೊಳ್ಳಿ"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "ಆಯ್ಕೆಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "selectionOverlayMessage": {
+      "message": "Facebook ಗೆ ಈ ಉಲ್ಲೇಖವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+   }
+}

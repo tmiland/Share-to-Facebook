@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Kongsikan halaman web ini di Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Kongsikan teks sebagai petikan di Facebook"
+   },
+   "extensionName": {
+      "message": "Kongsikan di Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Pilihan disimpan"
+   },
+   "selectionOverlayMessage": {
+      "message": "Kongsikan petikan ini di Facebook"
+   }
+}

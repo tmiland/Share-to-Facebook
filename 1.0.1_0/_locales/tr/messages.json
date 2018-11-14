@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Bu internet sayfasını Facebook'ta paylaş"
+   },
+   "contextMenuShareQuote": {
+      "message": "Metni alıntı olarak Facebook'ta paylaş"
+   },
+   "extensionName": {
+      "message": "Facebook'ta Paylaş"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Seçenekler kaydedildi"
+   },
+   "selectionOverlayMessage": {
+      "message": "Bu alıntıyı Facebook'ta paylaş"
+   }
+}

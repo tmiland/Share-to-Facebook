@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Ibahagi ang webpage na ito sa Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Ibahagi ang text bilang quote sa Facebook"
+   },
+   "extensionName": {
+      "message": "Ibahagi sa Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Na-save ang mga opsyon"
+   },
+   "selectionOverlayMessage": {
+      "message": "Ibahagi ang quote na ito sa Facebook"
+   }
+}

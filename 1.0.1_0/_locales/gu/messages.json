@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Facebook પર આ વેબપેજ શેર કરો"
+   },
+   "contextMenuShareQuote": {
+      "message": "Facebook પર ક્વોટ તરીકે ટેક્સ્ટ શેર કરો"
+   },
+   "extensionName": {
+      "message": "Facebook પર શેર કરો"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "વિકલ્પો સાચવ્યા"
+   },
+   "selectionOverlayMessage": {
+      "message": "Facebook પર આ ક્વોટને શેર કરો"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "இந்த இணையப்பக்கத்தை Facebook இல் பகிரவும்"
+   },
+   "contextMenuShareQuote": {
+      "message": "உரையை மேற்கோளாக Facebook இல் பகிரவும் "
+   },
+   "extensionName": {
+      "message": "Facebook இல் பகிரவும்"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "விருப்பங்கள் சேமிக்கப்பட்டன"
+   },
+   "selectionOverlayMessage": {
+      "message": "இந்த மேற்கோளை Facebook இல் பகிரவும்"
+   }
+}

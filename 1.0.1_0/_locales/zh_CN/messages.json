@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "分享此网页至 Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "将文字作为引文分享至 Facebook"
+   },
+   "extensionName": {
+      "message": "分享至 Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "选项已保存"
+   },
+   "selectionOverlayMessage": {
+      "message": "分享此引文至 Facebook"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Bendrinti šią svetainę „Facebook“"
+   },
+   "contextMenuShareQuote": {
+      "message": "Bendrinti tekstą kaip citatą „Facebook“"
+   },
+   "extensionName": {
+      "message": "Bendrinti „Facebook“"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Parinktys įrašytos"
+   },
+   "selectionOverlayMessage": {
+      "message": "Bendrinti šią citatą „Facebook“"
+   }
+}

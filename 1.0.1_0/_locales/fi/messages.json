@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Jaa tämä verkkosivu Facebookissa"
+   },
+   "contextMenuShareQuote": {
+      "message": "Jaa teksti lainauksena Facebookissa"
+   },
+   "extensionName": {
+      "message": "Jaa Facebookissa"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Valinnat tallennettu"
+   },
+   "selectionOverlayMessage": {
+      "message": "Jaa tämä lainaus Facebookissa"
+   }
+}

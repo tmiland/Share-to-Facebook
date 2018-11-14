@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "हे पृष्‍ठ Facebook वर सामायिक करा"
+   },
+   "contextMenuShareQuote": {
+      "message": "Facebook उदाहरण म्‍हणून मजकूर सामायिक करा"
+   },
+   "extensionName": {
+      "message": "Facebook वर सामायिक करा"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "पर्याय जतन केले"
+   },
+   "selectionOverlayMessage": {
+      "message": "हे उदाहरण Facebook वर सामायिक करा"
+   }
+}

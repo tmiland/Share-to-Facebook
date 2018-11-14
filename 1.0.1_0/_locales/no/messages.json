@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Del på Facebook"
+  },
+  "contextMenuSharePage": {
+    "message": "Del denne nettsiden på Facebook"
+  },
+  "contextMenuShareQuote": {
+    "message": "Del tekst som sitat på Facebook"
+  },
+  "optionsPageUpdateSaved": {
+    "message": "Alternativer er lagret"
+  },
+  "selectionOverlayMessage": {
+    "message": "Del dette sitatet på Facebook"
+  }
+}

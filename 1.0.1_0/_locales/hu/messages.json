@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "A weboldal megosztása a Facebookon"
+   },
+   "contextMenuShareQuote": {
+      "message": "A szöveg megosztása idézetként a Facebookon"
+   },
+   "extensionName": {
+      "message": "Megosztás a Facebookon"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Mentetted a beállításokat."
+   },
+   "selectionOverlayMessage": {
+      "message": "Az idézet megosztása a Facebookon"
+   }
+}

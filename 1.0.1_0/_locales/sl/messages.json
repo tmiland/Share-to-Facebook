@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Objavi to spletno stran v Facebooku"
+   },
+   "contextMenuShareQuote": {
+      "message": "Objavi besedilo kot citat v Facebooku"
+   },
+   "extensionName": {
+      "message": "Skupna raba v Facebooku"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Možnosti so shranjene"
+   },
+   "selectionOverlayMessage": {
+      "message": "Objavi ta citat v Facebooku"
+   }
+}

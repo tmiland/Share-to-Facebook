@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Dela den här webbsidan på Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Dela text som citat på Facebook"
+   },
+   "extensionName": {
+      "message": "Dela på Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Sparade alternativ"
+   },
+   "selectionOverlayMessage": {
+      "message": "Dela det här citatet på Facebook"
+   }
+}

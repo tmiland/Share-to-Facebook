@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Kopīgot šo tīmekļa vietni pakalpojumā Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Kopīgot tekstu pakalpojumā Facebook kā citātu"
+   },
+   "extensionName": {
+      "message": "Kopīgot pakalpojumā Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opcijas ir saglabātas"
+   },
+   "selectionOverlayMessage": {
+      "message": "Kopīgot šo citātu pakalpojumā Facebook"
+   }
+}

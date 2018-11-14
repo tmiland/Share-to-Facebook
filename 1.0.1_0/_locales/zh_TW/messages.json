@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "在 Facebook 分享這個網頁"
+   },
+   "contextMenuShareQuote": {
+      "message": "在 Facebook 以引文的形式分享這段文字"
+   },
+   "extensionName": {
+      "message": "在 Facebook 分享"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "已儲存選項"
+   },
+   "selectionOverlayMessage": {
+      "message": "在 Facebook 分享這段引文"
+   }
+}

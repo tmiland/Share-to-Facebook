@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Delite ovu veb stranicu na Facebook-u"
+   },
+   "contextMenuShareQuote": {
+      "message": "Delite tekst kao citat na Facebook-u"
+   },
+   "extensionName": {
+      "message": "Delite na Facebook-u"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opcije su sačuvane"
+   },
+   "selectionOverlayMessage": {
+      "message": "Delite ovaj citat na Facebook-u"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "اشتراک‌گذاری این صفحه وب در فیس‌بوک"
+   },
+   "contextMenuShareQuote": {
+      "message": "اشتراک‌گذاری نوشتار به‌عنوان نقل قول در فیس‌بوک"
+   },
+   "extensionName": {
+      "message": "اشتراک‌گذاری در فیس‌بوک"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "گزینه‌ها ذخیره شدند"
+   },
+   "selectionOverlayMessage": {
+      "message": "اشتراک‌گذاری این نقل قول در فیس‌بوک"
+   }
+}

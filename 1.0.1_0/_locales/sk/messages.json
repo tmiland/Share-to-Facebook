@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Zdieľať túto webovú stránku na Facebooku"
+   },
+   "contextMenuShareQuote": {
+      "message": "Zdieľať text ako citát na Facebooku"
+   },
+   "extensionName": {
+      "message": "Zdieľať na Facebooku"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Možnosti boli uložené"
+   },
+   "selectionOverlayMessage": {
+      "message": "Zdieľať tento citát na Facebooku"
+   }
+}

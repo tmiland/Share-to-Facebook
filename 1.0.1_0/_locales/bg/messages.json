@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Споделяне на тази страница във Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Споделяне на текст като цитат във Facebook"
+   },
+   "extensionName": {
+      "message": "Споделяне във Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Опциите са записани"
+   },
+   "selectionOverlayMessage": {
+      "message": "Споделяне на този цитат във Facebook"
+   }
+}

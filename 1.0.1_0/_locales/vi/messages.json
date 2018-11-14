@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Chia sẻ trang web này lên Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Chia sẻ văn bản dưới dạng trích dẫn lên Facebook"
+   },
+   "extensionName": {
+      "message": "Chia sẻ lên Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Đã lưu tùy chọn"
+   },
+   "selectionOverlayMessage": {
+      "message": "Chia sẻ trích dẫn này lên Facebook"
+   }
+}

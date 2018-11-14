@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Podijeli ovu web-stranicu na Facebooku"
+   },
+   "contextMenuShareQuote": {
+      "message": "Podijeli tekst kao citat na Facebooku"
+   },
+   "extensionName": {
+      "message": "Podijeli na Facebooku"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Mogućnosti su spremljene"
+   },
+   "selectionOverlayMessage": {
+      "message": "Podijeli ovaj citat na Facebooku"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "ഈ വെബ്‌പേജ് Facebook-ലേക്ക് പങ്കിടൂ"
+   },
+   "contextMenuShareQuote": {
+      "message": "Facebook-ലേക്ക് ഉദ്ധരണിയായി ടെക്‌സ്റ്റ് പങ്കിടൂ"
+   },
+   "extensionName": {
+      "message": "Facebook-ലേക്ക് പങ്കിടൂ"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "ഓപ്‌ഷനുകൾ സംരക്ഷിച്ചു"
+   },
+   "selectionOverlayMessage": {
+      "message": "ഈ ഉദ്ധരണി Facebook-ലേക്ക് പങ്കിടൂ"
+   }
+}

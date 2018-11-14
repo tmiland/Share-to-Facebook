@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "שתף דף זה בפייסבוק"
+   },
+   "contextMenuShareQuote": {
+      "message": "שתף טקסט כציטוט בפייסבוק"
+   },
+   "extensionName": {
+      "message": "שתף בפייסבוק"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "האפשרויות נשמרו"
+   },
+   "selectionOverlayMessage": {
+      "message": "שתף ציטוט זה בפייסבוק"
+   }
+}

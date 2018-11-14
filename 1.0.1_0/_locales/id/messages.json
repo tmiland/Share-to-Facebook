@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Bagikan halaman web ini ke Facebook"
+   },
+   "contextMenuShareQuote": {
+      "message": "Bagikan teks sebagai kutipan ke Facebook"
+   },
+   "extensionName": {
+      "message": "Bagikan ke Facebook"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Opsi disimpan"
+   },
+   "selectionOverlayMessage": {
+      "message": "Bagikan kutipan ini ke Facebook"
+   }
+}

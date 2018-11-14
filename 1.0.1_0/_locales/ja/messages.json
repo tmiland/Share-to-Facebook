@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "このウェブページをFacebookでシェアする"
+   },
+   "contextMenuShareQuote": {
+      "message": "テキストを引用してFacebookでシェアする"
+   },
+   "extensionName": {
+      "message": "Facebookでシェアする"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "保存済みオプション"
+   },
+   "selectionOverlayMessage": {
+      "message": "この言葉・文章をFacebookでシェアする"
+   }
+}

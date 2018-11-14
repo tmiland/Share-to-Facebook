@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "مشاركة صفحة الويب هذه على فيسبوك"
+   },
+   "contextMenuShareQuote": {
+      "message": "مشاركة النص كاقتباس على فيسبوك"
+   },
+   "extensionName": {
+      "message": "مشاركة على فيسبوك"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "تم حفظ الخيارات"
+   },
+   "selectionOverlayMessage": {
+      "message": "مشاركة هذا الاقتباس على فيسبوك"
+   }
+}

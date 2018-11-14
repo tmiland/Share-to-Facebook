@@ -1,0 +1,17 @@
+{
+   "contextMenuSharePage": {
+      "message": "Jaga seda veebilehte Facebookis"
+   },
+   "contextMenuShareQuote": {
+      "message": "Jaga teksti tsitaadina Facebookis"
+   },
+   "extensionName": {
+      "message": "Jaga Facebookis"
+   },
+   "optionsPageUpdateSaved": {
+      "message": "Valikud on salvestatud"
+   },
+   "selectionOverlayMessage": {
+      "message": "Jaga seda tsitaati Facebookis"
+   }
+}
